@@ -17,3 +17,7 @@ In case the expression has multiplication/division, it takes precendence over ad
 Also, as can be seen from the example above, the calculator is designed to handle -ive numbers as well.
 
 The supported operands for this calculator are + , - , * , /
+
+# Execution
+To execute the program, run the com.onelogin.main.Main class from the command line (java com.onelogin.main.Main)
+The application would wait at prompt for the user to key in the expression to be calculated. When done, hit enter; and the result will be produced. The program then waits for the next expression and will keep repeating until the expression is : quit
